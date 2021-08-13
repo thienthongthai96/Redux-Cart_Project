@@ -1,0 +1,11 @@
+App
+    Header
+    Products
+        Product items
+        Product items
+    Message 
+    Cart
+        CartItem
+        CartItem
+        CartResult
+    Footer
